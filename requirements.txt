@@ -1,0 +1,6 @@
+opencv-python
+deepface
+textblob
+numpy
+pandas
+scikit-learn
